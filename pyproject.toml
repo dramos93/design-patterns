@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "desing-patterns"
+version = "0.1.0"
+description = "Estudo sobre padrões de desenvolvimento usando python."
+authors = ["Daniel Silva Ramos <55096360+dramos93@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
