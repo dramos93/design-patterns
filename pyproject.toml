@@ -8,6 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 ipykernel = "^6.29.0"
+azure-identity = "^1.15.0"
+azure-mgmt-datafactory = "^4.0.0"
+pandas = "^2.2.0"
 
 
 [build-system]
